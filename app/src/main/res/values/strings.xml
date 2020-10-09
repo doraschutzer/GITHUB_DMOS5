@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GITHUB_DMOS5</string>
+    <string name="msg_permissao">Para buscar os repositórios, é necessário que tenha a permissão de Internet</string>
+    <string name="permitir">Permitir</string>
+    <string name="nao_permitir">Não Permitir</string>
+    <string name="nome_repositorio">Nome do repositório</string>
+    <string name="nome_usuario">Nome do usuário</string>
+    <string name="hint_nome_usuario">Informe o nome do usuário</string>
+    <string name="btn_buscar_repositorio">Buscar repositórios</string>
+    <string name="erro_buscar_usuario">Erro ao buscar pelo usuário.</string>
+</resources>
